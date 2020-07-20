@@ -7,7 +7,7 @@
 Test Users
 Listener - username : me2say@gmail.com
            password : qaqaqa
-Artist -   username : mesay.rbekele@gmail.com
+Artist -   username : mesay12@yahoo.com
            password : qaqaqa
 ```
 
