@@ -3,6 +3,13 @@
 ## Link
 
 [Bandwagon - Live App](https://bandwagon-project.herokuapp.com/)
+```python
+Test Users
+Listener - username : me2say@gmail.com
+           password : qaqaqa
+Artist -   username : mesay.rbekele@gmail.com
+           password : qaqaqa
+```
 
 ![image](client/src/img/mockupApple.png)
 
